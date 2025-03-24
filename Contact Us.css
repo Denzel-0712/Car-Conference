@@ -1,0 +1,35 @@
+
+li {
+    display: inline;
+    font-size: xx-large;
+    font-style:oblique;
+}
+h1{
+  background-color:burlywood;
+  color:aquamarine;
+  text-align: center;
+  font-style: oblique;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+p{
+  font-size:  50px;
+  color: deepskyblue;
+}
+body {
+  text-align: center;
+  text-decoration: double;
+  background-image: url(Image/7acc304e-9b6b-46ef-9fe5-0261a2af90f8.jpeg);
+}
+footer{
+  color: aqua;
+  text-align: center;
+  font-style: oblique;                  
+}
+e-mail{
+  background-color:blanchedalmond ; 
+  font-size:  50px;
+  color:darkgoldenrod;
+  text-align: center;
+}
+
+

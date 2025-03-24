@@ -1,0 +1,25 @@
+footer{
+    text-align: center;
+    background-color: beige;
+    color: crimson;
+}
+h2.h3,h4,h5,h6{
+    text-align: center
+}
+.mydiv{
+    text-align: left;
+    color: darkgoldenrod;
+    
+}
+body{
+    background-image: url(Image/7acc304e-9b6b-46ef-9fe5-0261a2af90f8.jpeg);
+    color: cyan;
+    text-align: center;
+}
+
+li {
+    display: inline;
+    font-size: xx-large;
+  }
+
+    
